@@ -55,14 +55,3 @@ app.post("/", function(req,res){
 app.post("/failure", function(req,res){
     res.redirect("/");
 });
-
-//mailjet
-// https://api.mailjet.com/v3/REST/contactslist/{list_ID}
-
-
-
-
-
-//chimp
-// 4f3b31cf8e.
-// 87b469ec1ea10bba2ce3a7504a392522-us21
